@@ -1,0 +1,31 @@
+JAV001 ARRIVE Car has been parked.
+JAV002 ARRIVE Car has been parked.
+JAV003 ARRIVE Car has been parked.
+JAV004 ARRIVE Car has been parked.
+JAV005 ARRIVE Car has been parked.
+JAV001 DEPART Car has exited the garage. Moved 0 times.
+JAV004 DEPART Car has exited the garage. Moved 0 times.
+JAV006 ARRIVE Car has been parked.
+JAV007 ARRIVE Car has been parked.
+JAV008 ARRIVE Car has been parked.
+JAV009 ARRIVE Car has been parked.
+JAV010 ARRIVE Car has been parked.
+JAV011 ARRIVE Car has been parked.
+JAV012 ARRIVE Car has been parked.
+JAV013 ARRIVE The garage is full. Car could not be parked.
+JAV014 ARRIVE The garage is full. Car could not be parked.
+JAV006 DEPART Car has exited the garage. Moved 0 times.
+JAV014 DEPART Car could not be found.
+JAV013 DEPART Car could not be found.
+JAV005 DEPART Car has exited the garage. Moved 1 times.
+JAV015 ARRIVE Car has been parked.
+JAV010 DEPART Car has exited the garage. Moved 0 times.
+JAV002 DEPART Car has exited the garage. Moved 4 times.
+JAV015 DEPART Car has exited the garage. Moved 0 times.
+JAV014 DEPART Car could not be found.
+JAV009 DEPART Car has exited the garage. Moved 2 times.
+JAV003 DEPART Car has exited the garage. Moved 6 times.
+JAV008 DEPART Car has exited the garage. Moved 3 times.
+JAV007 DEPART Car has exited the garage. Moved 4 times.
+JAV012 DEPART Car has exited the garage. Moved 1 times.
+JAV011 DEPART Car has exited the garage. Moved 2 times.
